@@ -10,7 +10,7 @@ View the live example here: [https://dotenv-integration-example-vercel.vercel.ap
 
 ## Screenshots on Dotenv
 
-If you are using Vercel with Dotenv, then your configuration will look similar in Dotenv. You'll see that the environment variables below map to [process.env.NEXT_PUBLIC_HELLO](https://github.com/dotenv-org/integration-example-vercel/blob/master/pages/index.js#L12)
+If you are using Vercel with Dotenv, then your configuration will look similar in Dotenv. You'll see that the environment variables below map to [process.env.NEXT_PUBLIC_HELLO](https://github.com/dotenv-org/integration-example-vercel/blob/master/pages/index.js#L6)
 
 ## Development
 
