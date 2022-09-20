@@ -1,5 +1,3 @@
-[![fork with dotenv-vault](https://badge.dotenv.org/fork.svg?r=1)](https://vault.dotenv.org/project/vlt_eee6457319dd6a251d769eda55552afd20674ed12a148606a9031197b79a12c0/example)
-
 # integration-example-vercel
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-vercel/master/vercel.png" alt="vercel" /><img src="https://raw.githubusercontent.com/dotenv-org/integration-example-vercel/master/dotenv.png" alt="dotenv" />
