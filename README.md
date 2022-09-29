@@ -6,8 +6,6 @@ Example Vercel + Dotenv integration.
 
 View the live example here: [https://dotenv-integration-example-vercel.vercel.app/](https://dotenv-integration-example-vercel.vercel.app/)
 
-<img src="https://raw.githubusercontent.com/dotenv-org/integration-example-vercel/master/example.gif" alt="integration-example-vercel" />
-
 ## Development
 
 Run the development server:
