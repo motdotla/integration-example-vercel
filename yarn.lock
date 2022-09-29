@@ -649,10 +649,10 @@
   dependencies:
     "esutils" "^2.0.2"
 
-"dotenv-vault@1.13.7":
-  "integrity" "sha512-oi4F6eR1I98nq4PYsBqzzrb9oD8pDm7rvtXYdXxI1xrKCYVZdoNdhYu0O1esMgFO0jQQfsJ1Tzl1/+9UlA+8HQ=="
-  "resolved" "https://registry.npmjs.org/dotenv-vault/-/dotenv-vault-1.13.7.tgz"
-  "version" "1.13.7"
+"dotenv-vault@1.13.8":
+  "integrity" "sha512-c/QXPXHsG3SHbjWkBHWxTM997fznOs7O8xDOOEuacRwFca9YPjY8UBD4x5wys4Z2lXU5+ZaluhMIf2cACdHvuA=="
+  "resolved" "https://registry.npmjs.org/dotenv-vault/-/dotenv-vault-1.13.8.tgz"
+  "version" "1.13.8"
   dependencies:
     "@oclif/core" "^1"
     "@oclif/plugin-help" "^5.1.12"
